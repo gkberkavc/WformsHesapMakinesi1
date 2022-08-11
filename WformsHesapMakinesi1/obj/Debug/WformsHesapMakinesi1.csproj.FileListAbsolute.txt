@@ -1,0 +1,15 @@
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\bin\Debug\WformsHesapMakinesi1.exe.config
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\bin\Debug\WformsHesapMakinesi1.exe
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\bin\Debug\WformsHesapMakinesi1.pdb
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\obj\Debug\WformsHesapMakinesi1.csproj.AssemblyReference.cache
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\obj\Debug\WformsHesapMakinesi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\obj\Debug\WformsHesapMakinesi1.Form1.resources
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\obj\Debug\WformsHesapMakinesi1.Properties.Resources.resources
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\obj\Debug\WformsHesapMakinesi1.csproj.GenerateResource.cache
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\obj\Debug\WformsHesapMakinesi1.csproj.CoreCompileInputs.cache
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\obj\Debug\WformsHesapMakinesi1.exe
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\obj\Debug\WformsHesapMakinesi1.pdb
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\bin\Debug\WformsHesapMakinesi1.exe.manifest
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\bin\Debug\WformsHesapMakinesi1.application
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\obj\Debug\WformsHesapMakinesi1.exe.manifest
+C:\Users\gkber\source\repos\WformsHesapMakinesi1\WformsHesapMakinesi1\obj\Debug\WformsHesapMakinesi1.application
